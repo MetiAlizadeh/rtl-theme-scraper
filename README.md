@@ -37,7 +37,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Disclaimer
 This script is for educational purposes only. Users are responsible for adhering to the RTL Theme's terms of service regarding scraping.
-
-## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](issues_link) if you want to contribute.
-
